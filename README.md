@@ -100,6 +100,10 @@ You can help the translation of this application in your favorite languages by j
 ## Support and Bugs
 If you are having trouble using TagSpaces or have found a bug or you have some ideas how TagSpaces could be improved: [open a ticket](https://github.com/tagspaces/tagspaces/issues) on GitHub.
 
+Don't forget Tagspaces is based upon other projects, which you can also submit bug reports and feature requests to:
+[node-webkit/nw.js](https://github.com/nwjs/nw.js) - [Submit a bug](https://github.com/nwjs/nw.js/issues)
+[Summernote](https://github.com/summernote/summernote) - [Submit a bug](https://github.com/summernote/summernote/issues)
+
 ## Feeds
 - Subscribe to RSS feed updates for the [tagspaces blog](http://tagspaces.org/blog/feed.xml)
 - Subscribe to RSS feed updates for the [master branch](https://github.com/tagspaces/tagspaces/commits/master.atom)
