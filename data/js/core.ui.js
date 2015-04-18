@@ -220,7 +220,7 @@ define(function(require, exports, module) {
         $('body').append(uiTemplate());
         $('#moveFilesButton').click(function(e) {
           e.preventDefault();
-          TSCORE.showWaitingDialog('Files are being renaming');
+          TSCORE.showWaitingDialog('Files are being renamed');
           var newFilePath;
           for (var i = 0; i < TSCORE.selectedFiles.length; i++) {
             newFilePath = $('#moveCopyDirectoryPath').val() + TSCORE.dirSeparator + TSCORE.TagUtils.extractFileName(TSCORE.selectedFiles[i]);
